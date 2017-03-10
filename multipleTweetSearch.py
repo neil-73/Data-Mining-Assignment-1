@@ -2,7 +2,6 @@
 
 # Data Mining Assignment 1: Twitter Hashtag Search Code
 #       Neil Ramdath         - 100519195
-#       Faizan Contractor    - 100451291
 
 # Import required packages
 import tweepy
